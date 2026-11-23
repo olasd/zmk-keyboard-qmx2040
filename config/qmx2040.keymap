@@ -220,7 +220,7 @@
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
                &trans &trans &trans &trans &trans                         &trans &trans &trans &trans &trans
-           &trans &tt_alt_l &trans &tt_thumb &tt_ctl_l      &tt_ctl_r &mhlt LAYER_NAV SPC &trans &tt_alt_r &trans
+           &trans &tt_alt_l &trans &mhlt LAYER_NAV SPC &tt_ctl_l      &tt_ctl_r &tt_thumb &trans &tt_alt_r &trans
           &trans  &trans  &trans  &trans  &trans
       >;
     };
